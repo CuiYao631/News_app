@@ -1,0 +1,1 @@
+const SERVER_API_URL="https://cc.amateurhat.com:8080/mock/12";
